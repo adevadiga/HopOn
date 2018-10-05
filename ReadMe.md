@@ -8,3 +8,7 @@ Things to read on priority
 6. SQL queries 
 7. Hibernate few concepts
 8. AWS essentails
+
+
+Trello Link:
+https://trello.com/b/tfKsY8w4/target-learning-stacks
